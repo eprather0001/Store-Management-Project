@@ -19,8 +19,8 @@ Use your knowledge of object-oriented programming and class structure and design
 
 Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here.
 
-![UML Diagram for my project](nameOfImageFileHere.png)
+![image](https://github.com/user-attachments/assets/81db4cf9-cc19-43f6-a585-193161aba5b8)
 
 ## Description
 
-Write a description of your project here. Include what your store you made, and why you chose this topic. In your description, include as many vocab words from our class to explain how you represented the item/service from your store. If you have user input, explain how the user will interact with your store such as which questions are prompted to the user, what response is your program expecting, and how that is use to output information for your store in the console.
+My store is about Starbucks. I chose this topic because I enjoy going to Starbucks and I like their drinks. My Starbucks store has two different subclasses, Refresher and Frappuccino. In this project I used instance variables, no-arguement constrcutors, parameterized constructors, accessor and mutator methods, and toString methods. Some examples of instance variables I used are, type, price, isBlended, size, hasLemonade, and hasCoffee. The no arguement constructors were used to assign a value to each instance variable. The mutator methods were used to return values like getType or getSize. 
